@@ -1,4 +1,4 @@
-# INFI
+# INFI Assignement
 In order to run the .jar file. make sure the .csv file is in the dame directory.
 
 At this point the user experience should resemble this somethinglike this:
